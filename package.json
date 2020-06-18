@@ -1,0 +1,23 @@
+{
+  "name": "server-node",
+  "version": "1.0.0",
+  "description": "Complete Node.js Guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gregsdev/server-Node.js.git"
+  },
+  "author": "Gregory Soszynski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gregsdev/server-Node.js/issues"
+  },
+  "homepage": "https://github.com/Gregsdev/server-Node.js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
